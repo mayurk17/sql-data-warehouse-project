@@ -66,7 +66,6 @@ BEGIN
 			PRINT '==========================================' 
 			PRINT 'ERROR OCCURED DURING LOADING BRONZE LAYER'
 			PRINT 'Error Message' + ERROR_MESSAGE();
-			PRINT 'Error Message' + ERROR_NUMBER();
 			PRINT '==========================================' 
 	   END CATCH
 END
