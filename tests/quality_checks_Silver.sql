@@ -14,9 +14,8 @@ Script Purpose:
 Usage Notes:
     - Run these checks after data loading Silver Layer.
     - Investigate and resolve any discrepancies found during the checks.
-===============================================================================
 */
-- ====================================================================
+-- ====================================================================
 -- Checking 'Silver.crm_cust_info'
 -- ====================================================================
 -- Check for NULLs or Duplicates in Primary Key
